@@ -1,0 +1,16 @@
+menu "Example LilyGO Device Configuration"
+
+    choice EXAMPLE_LILIGO_DEVICE_TYPE
+        prompt "Which device you use"
+    
+        help
+            Select LilyGO Device you use
+
+        config EXAMPLE_LILIGO_T_DISPLAY
+            bool "LilyGO T-display"
+        
+        config EXAMPLE_LILIGO_T_QT
+            bool "lilyGO T-QT"
+    endchoice
+
+endmenu
