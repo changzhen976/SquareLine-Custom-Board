@@ -20,9 +20,9 @@
     "pattern_match_files": "./CMakeLists.txt",
     "ui_export_path": "./main/ui",
     "flat_export": false,
-    "url": "https://github.com/espressif/esp-bsp",
+    "url": "https://github.com/changzhen976/changzhen976-SquareLine-Custom-Board",
     "short_description": "The LilyGO T-Display produced by LilyGO. It integrates the ESP32 module and all the connectors for extension boards.",
     "long_description": " ESP32, ST7789 display driver, no touch panel.",
-    "repository": "https://boards.squareline.io/esp32_s2_kaluga_kit_v1_0_0",
+    "repository": "https://github.com/changzhen976/changzhen976-SquareLine-Custom-Board.git",
     "custom_params": []
 }
