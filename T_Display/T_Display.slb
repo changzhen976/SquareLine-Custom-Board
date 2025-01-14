@@ -23,6 +23,6 @@
     "url": "https://github.com/changzhen976/changzhen976-SquareLine-Custom-Board",
     "short_description": "The LilyGO T-Display produced by LilyGO. It integrates the ESP32 module and all the connectors for extension boards.",
     "long_description": " ESP32, ST7789 display driver, no touch panel.",
-    "repository": "https://github.com/changzhen976/changzhen976-SquareLine-Custom-Board.git",
+    "repository": "https://github.com/changzhen976/SquareLine-Custom-Board/blob/main",
     "custom_params": []
 }
